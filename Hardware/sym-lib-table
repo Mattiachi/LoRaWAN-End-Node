@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LoRaWAN_EndNode_Microchip-rescue)(type Legacy)(uri ${KIPRJMOD}/LoRaWAN_EndNode_Microchip-rescue.lib)(options "")(descr ""))
+)
