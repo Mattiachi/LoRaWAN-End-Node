@@ -13,6 +13,6 @@ For further information refer to my [thesis document](https://amslaurea.unibo.it
 where the project is explained in more detail.
 
 ![MicrosoftTeams-image (10)](https://user-images.githubusercontent.com/30445778/190121414-ea43c11b-1d70-4290-89d6-9e6cf8096d1d.png) ![3d_view_bakc](https://user-images.githubusercontent.com/30445778/190080454-d11e0c02-c234-4688-bd14-2967aa01d26f.PNG)
-
+![End_Node_Soldered]()
 
 
